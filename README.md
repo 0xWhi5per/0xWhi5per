@@ -1,4 +1,4 @@
-![Wallpaper](0xWhisper.png)
+![Wallpaper](whisper.png)
 <!--
 **0xWhi5per/0xWhi5per** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
